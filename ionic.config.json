@@ -1,0 +1,7 @@
+{
+  "name": "mind-set",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
